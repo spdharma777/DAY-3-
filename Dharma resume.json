@@ -1,0 +1,78 @@
+{
+  "basics": {
+    "name": "Dharma lingam",
+    "label": "Programmer",
+    "image": "",
+    "email": "spdharma777@gmail.com",
+    "phone": "(+91)9003356235",
+    "url": "https://spdharma.com",
+    "summary": "A summary of dharma�",
+    "location": {
+      "address": "4/413a,ramamoorthi nagar,s.s.colony ",
+      "postalCode": "642126",
+      "city": "udumalpet",
+      "countryCode": "india",
+      "region": "indian"
+    },
+    "profiles": [{
+      "network": "gmail",
+      "username": "spdharma777@gmail.com",
+      "url": "https://gmail.com/spdharma"
+    }]
+  },
+  "work": [{
+    "name": "RK FABRICATIONS",
+    "position": "TECHNICAL TEAM HEAD",
+    "url": "https://rk fabrication.com",
+    "startDate": "2017-12-16",
+    "endDate": "2022-11-08",
+    "summary": "starting 2017 to this day im working in this company �",
+    "highlights": [
+      "Started the company"
+    ]
+  }],
+  "volunteer": [{
+    "organization": "karc industries",
+    "position": "founder",
+    "url": "https://karcindustries.com.com/",
+    "startDate": "2025-01-01",
+    "summary": "my dream in 2025 i was started "
+    
+  }],
+  "education": [{
+    "institution": "guvi",
+    "area": "full stack developement",
+    "studyType": "Bachelor",
+    "startDate": "2022-10-08",
+    "score": " ",
+    "courses": [
+      "front end and back end"
+    ]
+  }],
+  
+   
+  "skills": [{
+    "name": "Web Development",
+    "level": "beginner",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "English and tamil",
+    "fluency": "Native speaker - tamil"
+  }],
+  "interests": [{
+    "name": "making film",
+    "keywords": [
+      "animation movies",
+      "graphics"
+    ]
+  }],
+  "references": [{
+    "name": "arun prakash",
+    "reference": "arun prakash sir guvi interview �"
+  }]
+}
